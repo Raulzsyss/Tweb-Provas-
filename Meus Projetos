@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meus Projetos</title>
+</head>
+<body>
+
+  <section id="meus-projetos">
+    <h2>Meus Projetos</h2>
+
+    <article>
+      <h3>Site EcoVida</h3>
+      <img src="ecovida.jpg" alt="Imagem do projeto EcoVida" width="300">
+      <p>O <strong>EcoVida</strong> é um site voltado à conscientização ambiental, com dicas de reciclagem, economia de água e energia. O objetivo é inspirar hábitos sustentáveis no dia a dia.</p>
+      <a href="https://exemplo.com/ecovida" target="_blank">Visitar projeto</a>
+    </article>
+
+    <article>
+      <h3>Blog InspiraArte</h3>
+      <img src="inspiarte.jpg" alt="Imagem do projeto InspiraArte" width="300">
+      <p>O <em>InspiraArte</em> é um blog criativo feito para divulgar artistas independentes, mostrar seus trabalhos e contar suas histórias de forma inspiradora.</p>
+      <a href="https://exemplo.com/inspiarte" target="_blank">Visitar projeto</a>
+    </article>
+
+    <article>
+      <h3>Portfólio Digital Fernanda</h3>
+      <img src="portfolio.jpg" alt="Imagem do portfólio digital" width="300">
+      <p>Meu <span>portfólio digital</span> apresenta meus projetos, habilidades e experiências com design e desenvolvimento web, destacando meu crescimento como criadora.</p>
+      <a href="https://exemplo.com/portfolio" target="_blank">Visitar projeto</a>
+    </article>
+  </section>
+
+</body>
+</html>
