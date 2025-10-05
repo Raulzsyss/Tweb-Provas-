@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minhas Tecnologias</title>
+</head>
+<body>
+
+  <h2>Minhas Tecnologias</h2>
+
+  <table border="1" cellpadding="8">
+    <tr>
+      <th>Tecnologia</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>HTML</strong></td>
+      <td>É a linguagem usada para estruturar o conteúdo das páginas da web, como textos, imagens e links.</td>
+    </tr>
+    <tr>
+      <td><strong>CSS</strong></td>
+      <td>Utilizado para estilizar as páginas, controlando cores, fontes, tamanhos e o layout visual.</td>
+    </tr>
+    <tr>
+      <td><strong>JavaScript</strong></td>
+      <td>Permite adicionar interatividade e dinamismo às páginas, tornando-as mais atraentes e funcionais.</td>
+    </tr>
+  </table>
+
+  <footer>
+    <p>Desenvolvido por: Raul Ferreira Viana – 2025</p>
+  </footer>
+
+</body>
+</html>
