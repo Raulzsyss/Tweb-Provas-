@@ -25,9 +25,9 @@
     </article>
 
     <article>
-      <h3>Portfólio Digital Fernanda</h3>
+      <h3>Portfólio Digital Raul</h3>
       <img src="portfolio.jpg" alt="Imagem do portfólio digital" width="300">
-      <p>Meu <span>portfólio digital</span> apresenta meus projetos, habilidades e experiências com design e desenvolvimento web, destacando meu crescimento como criadora.</p>
+      <p>Meu <span>portfólio digital</span> apresenta meus projetos, habilidades e experiências com design e desenvolvimento web, destacando meu crescimento como criador.</p>
       <a href="https://exemplo.com/portfolio" target="_blank">Visitar projeto</a>
     </article>
   </section>
